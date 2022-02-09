@@ -1,2 +1,2 @@
 # Odin-recipes
-this is my first project im gonna work on and ive learnt alot hope to show case evrtthing what ilearnt through this project, and by the end of this project i would have mastered thr basics of html
+This is the first ever project i buliding in the odin curriculum, at first i thought this is gonna be a hard journey but its pretty fun and really intresting,hoping to build real huge projects soon , Thanks Odin for all the support and help you provide
